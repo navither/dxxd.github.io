@@ -1,1 +1,1 @@
-window.location.href=["./登录注册页面/homepage.html"];
+window.location.href=["./主页面/mainpage.html"];
