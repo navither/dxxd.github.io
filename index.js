@@ -1,0 +1,1 @@
+window.location.href=["./登录注册页面/homepage.html"];
